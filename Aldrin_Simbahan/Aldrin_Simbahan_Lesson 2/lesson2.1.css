@@ -1,0 +1,27 @@
+body{
+   background-color: rgb(130, 171, 190);
+}
+
+
+h1{
+    color: rgb(20, 17, 17);
+}
+h2{
+    color: rgb(17, 14, 14);
+}
+p{
+    color: rgb(18, 18, 22);
+}
+
+.main-title{
+    color: rgb(22, 161, 161)
+}
+
+.introduction{
+    color: rgb(10, 43, 43)
+
+}
+
+.gmail{
+    color: rgb(11, 61, 53)
+}
